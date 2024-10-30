@@ -1,8 +1,3 @@
-README for Diwali Project using Python Turtle
-
-
----
-
 🪔 Diwali Celebration with Python Turtle 🪔
 
 Welcome to the Diwali Celebration project! This project is a visual tribute to the festival of lights, created with Python's Turtle Graphics library. It aims to capture the festive spirit of Diwali by illustrating vibrant and animated scenes of traditional Diwali elements like diyas (lamps) and firecrackers, crafted entirely through Python code.
